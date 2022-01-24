@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EngineerExercise001</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="email_address">Email address</string>
+    <string name="create_password">Create password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="invalid_password">One of the passwords you entered wasn\'t valid</string>
+    <string name="account_already_exist">An account already exist for this email address</string>
+    <string name="your_passwords_do_not_match">Your passwords do not match</string>
+    <string name="password_hint">See crateria bellow</string>
+    <string name="password_instructions">Your password should have a minimum of 8 character and contain at least one number, one uppercase and one lower case letter. You can use special caracters</string>
+
+
+</resources>
